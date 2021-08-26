@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">BlockChecker.v</arg>&quot; line <arg fmt="%d" index="2">55</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">count</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">BlockChecker.v</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">count</arg>&gt;.
+</msg>
+
+</messages>
+

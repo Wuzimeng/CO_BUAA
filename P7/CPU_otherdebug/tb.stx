@@ -1,0 +1,117 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/CO/P7/CPU_otherdebug/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to D:/CO/P7/CPU_otherdebug/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Reading design: tb.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\DECODE.v" into library work
+Parsing verilog file "define.v" included at line 28.
+Parsing module <DECODE>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\regs.v" into library work
+Parsing module <REG_D>.
+Parsing module <REG_E>.
+Parsing module <REG_M>.
+Parsing module <REG_W>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\MUX.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <MUX_PcSel>.
+Parsing module <MUX_RegA3Sel>.
+Parsing module <MUX_RegDataSel>.
+Parsing module <MUX_AluBSel>.
+Parsing module <MUX_DM>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\MF.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <MFCMP1D>.
+Parsing module <MFCMP2D>.
+Parsing module <MFALUAE>.
+Parsing module <MFALUBE>.
+Parsing module <MFDM>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\M.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <DM>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\F.v" into library work
+Parsing module <PC>.
+Parsing module <IM>.
+Parsing module <ADD4>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\EXC.v" into library work
+Parsing module <CHECK_D>.
+Parsing module <CHECK_E>.
+Parsing module <CHECK_M>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\E.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <ALU>.
+Parsing module <MD>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\D.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <GRF>.
+Parsing module <EXT>.
+Parsing module <NPC>.
+Parsing module <CMP>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\CP0.v" into library work
+Parsing module <CP0>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\STOP_CONTROL.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <STOP_CONTROL>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\FORWARD_CONTROL.v" into library work
+Parsing verilog file "define.v" included at line 21.
+Parsing module <FORWARD_CONTROL>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\DATAPATH.v" into library work
+Parsing module <DATAPATH>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\timer.v" into library work
+Parsing module <TC>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\CPU.v" into library work
+Parsing module <CPU>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\BRIDGE.v" into library work
+Parsing module <BRIDGE>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\mips.v" into library work
+Parsing module <mips>.
+Analyzing Verilog file "D:\CO\P7\CPU_otherdebug\tb1.v" into library work
+Parsing module <tb>.
+
+
+Total REAL time to Xst completion: 8.00 secs
+Total CPU time to Xst completion: 7.07 secs
+ 
+--> 
+
+Total memory usage is 4504068 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

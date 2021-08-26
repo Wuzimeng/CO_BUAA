@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+CONTROL instance_name (
+    .Func(Func), 
+    .OpCode(OpCode), 
+    .NPCOp(NPCOp), 
+    .RegWrite(RegWrite), 
+    .EXTOp(EXTOp), 
+    .ALUOp(ALUOp), 
+    .MemWrite(MemWrite), 
+    .RegA3Sel(RegA3Sel), 
+    .RegDataSel(RegDataSel), 
+    .AluBSel(AluBSel)
+    );
+
+

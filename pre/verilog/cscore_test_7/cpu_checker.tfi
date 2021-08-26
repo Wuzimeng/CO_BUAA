@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+cpu_checker instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .char(char), 
+    .format_type(format_type)
+    );
+
+

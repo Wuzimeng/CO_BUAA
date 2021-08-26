@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompilers" num="261" delta="old" ><arg fmt="%s" index="1">&quot;cpu_checker.v&quot; line 65 </arg>Connection to output port &apos;<arg fmt="%s" index="2">num</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="old" ><arg fmt="%s" index="1">&quot;cpu_checker.v&quot; line 75 </arg>Connection to output port &apos;<arg fmt="%s" index="2">num</arg>&apos; does not match port size
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="old" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">81</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">count</arg>&gt;.
+</msg>
+
+</messages>
+

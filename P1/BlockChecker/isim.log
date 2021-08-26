@@ -1,0 +1,87 @@
+ISim log file
+Running: D:\CO\P1\BlockChecker\BlockChecker_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/CO/P1/BlockChecker/BlockChecker_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run all
+Stopped at time : 59215140 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# restart
+# step
+Simulator is doing circuit initialization process.
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 49
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 196
+# step
+Stopped at time : 0 fs : File "D:/ISE/14.7/ISE_DS/ISE/verilog/src/glbl.v" Line 16
+# step
+Stopped at time : 0 fs : File "D:/ISE/14.7/ISE_DS/ISE/verilog/src/glbl.v" Line 48
+# step
+Stopped at time : 0 fs : File "D:/ISE/14.7/ISE_DS/ISE/verilog/src/glbl.v" Line 49
+# step
+Stopped at time : 0 fs : File "D:/ISE/14.7/ISE_DS/ISE/verilog/src/glbl.v" Line 50
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 44
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 45
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 46
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 43
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 45
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 46
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 47
+# step
+Stopped at time : 0 fs : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 0 fs : File "D:/ISE/14.7/ISE_DS/ISE/verilog/src/glbl.v" Line 52
+# run 1.00us
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 49
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 50
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 54
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 55
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 72
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 73
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 76
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 77
+# step
+Stopped at time : 1010 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 49
+# step
+Stopped at time : 1020 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1020 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1030 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1030 ns : File "D:/CO/P1/BlockChecker/BlockChecker_tb.v" Line 94
+# step
+Stopped at time : 1030 ns : File "D:/CO/P1/BlockChecker/BlockChecker.v" Line 49

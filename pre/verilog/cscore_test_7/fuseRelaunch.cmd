@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/cpu_checker_test1_isim_beh.exe" -prj "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/cpu_checker_test1_beh.prj" "work.cpu_checker_test1" "work.glbl" 

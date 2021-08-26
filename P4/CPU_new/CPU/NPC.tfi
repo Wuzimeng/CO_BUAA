@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+NPC instance_name (
+    .PC(PC), 
+    .Imm(Imm), 
+    .NPCOp(NPCOp), 
+    .Zero(Zero), 
+    .RA(RA), 
+    .NPC(NPC), 
+    .PC4(PC4)
+    );
+
+

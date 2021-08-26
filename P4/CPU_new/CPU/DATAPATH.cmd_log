@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU -o D:/CO/P4/CPU/DATAPATH.tfi -lib work D:/CO/P4/CPU//DATAPATH.v -module DATAPATH -template D:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

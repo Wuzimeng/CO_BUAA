@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+MFALUBE instance_name (
+    .mfalubeSel(mfalubeSel), 
+    .V2_E(V2_E), 
+    .ALUC_M(ALUC_M), 
+    .pc4_M(pc4_M), 
+    .ALUC_W(ALUC_W), 
+    .DMRD_W(DMRD_W), 
+    .pc4_W(pc4_W), 
+    .mfalub(mfalub)
+    );
+
+

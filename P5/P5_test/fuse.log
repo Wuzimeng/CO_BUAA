@@ -1,0 +1,73 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:\CO\P5\P5_test\CPU_tb.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\D.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\DATAPATH.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\DECODE.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\define.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\E.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\F.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\M.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\MF.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\mips.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\mips_tb.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\MUX.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\regs.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_test\STOP_CONTROL.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\MUX.v" Line 31: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\D.v" Line 39: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\D.v" Line 81: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\D.v" Line 106: Port EXTOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\MUX.v" Line 49: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\E.v" Line 31: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\MUX.v" Line 97: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\E.v" Line 74: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\M.v" Line 39: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\MUX.v" Line 73: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\FORWARD_CONTROL.v" Line 53: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\FORWARD_CONTROL.v" Line 55: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\STOP_CONTROL.v" Line 48: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\STOP_CONTROL.v" Line 58: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P5\P5_test\STOP_CONTROL.v" Line 60: Port NPCOp is not connected to this instance
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module MUX_AluBSel
+Compiling module MD
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Waiting for 14 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips.exe.sim\libPortability.dll".
+Compiled 29 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 31300 KB
+Fuse CPU Usage: 1296 ms

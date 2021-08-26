@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+REG_E instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .clr(clr), 
+    .V1(V1), 
+    .V2(V2), 
+    .ext(ext), 
+    .pc4(pc4), 
+    .V1_E(V1_E), 
+    .V2_E(V2_E), 
+    .ext_E(ext_E), 
+    .pc4_E(pc4_E)
+    );
+
+

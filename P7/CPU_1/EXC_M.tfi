@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+EXC_M instance_name (
+    .exccode(exccode), 
+    .load_error(load_error), 
+    .store_error(store_error), 
+    .instr(instr), 
+    .exccode_dm(exccode_dm)
+    );
+
+

@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+CP0 instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .instr_M(instr_M), 
+    .instr_W(instr_W), 
+    .CP0Data(CP0Data), 
+    .pc(pc), 
+    .HWInt(HWInt), 
+    .exccode(exccode), 
+    .CP0RD(CP0RD), 
+    .epc(epc), 
+    .exc_int(exc_int)
+    );
+
+

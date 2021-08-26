@@ -1,0 +1,27 @@
+
+
+
+// Instantiate the module
+REG_M instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .instr(instr), 
+    .V2(V2), 
+    .ALUC(ALUC), 
+    .pc4(pc4), 
+    .HI(HI), 
+    .LO(LO), 
+    .A3(A3), 
+    .exccode(exccode), 
+    .exc_int(exc_int), 
+    .instr_M(instr_M), 
+    .V2_M(V2_M), 
+    .ALUC_M(ALUC_M), 
+    .pc4_M(pc4_M), 
+    .HI_M(HI_M), 
+    .LO_M(LO_M), 
+    .A3_M(A3_M), 
+    .exccode_M(exccode_M)
+    );
+
+

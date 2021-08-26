@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+MFDM instance_name (
+    .mfdmSel(mfdmSel), 
+    .V2_M(V2_M), 
+    .ALUC_W(ALUC_W), 
+    .pc4_W(pc4_W), 
+    .DMRD_W(DMRD_W), 
+    .mfdm(mfdm)
+    );
+
+

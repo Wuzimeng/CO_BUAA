@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/CO/P1/P1.Q1/splitter.xst" -ofn "D:/CO/P1/P1.Q1/splitter.syr" 
+xst -intstyle ise -ifn "D:/CO/P1/P1.Q1/splitter.xst" -ofn "D:/CO/P1/P1.Q1/splitter.syr" 

@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MUX_AluBSel instance_name (
+    .instr(instr), 
+    .V2(V2), 
+    .ext(ext), 
+    .ALUB(ALUB)
+    );
+
+

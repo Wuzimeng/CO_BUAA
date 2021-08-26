@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\MUX.v" Line 31: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\D.v" Line 39: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\D.v" Line 81: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\D.v" Line 106: Port <arg fmt="%s" index="1">EXTOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\MUX.v" Line 49: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\E.v" Line 31: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\MUX.v" Line 97: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\E.v" Line 74: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\M.v" Line 39: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\MUX.v" Line 73: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\FORWARD_CONTROL.v" Line 53: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\FORWARD_CONTROL.v" Line 55: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\STOP_CONTROL.v" Line 48: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\STOP_CONTROL.v" Line 58: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:\CO\P6\p6_290\STOP_CONTROL.v" Line 60: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="fatal" file="Simulator" num="0" delta="unknown" srcfile="../src/Fuse.cpp" srcline="209" srcrcs="1.133" >Failed to compile one of the generated C files.
+Please recompile with -mt off -v 1 switch to identify which design unit failed.</msg>
+
+</messages>
+

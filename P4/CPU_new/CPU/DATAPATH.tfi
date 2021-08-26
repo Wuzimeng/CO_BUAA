@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+DATAPATH instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .NPCOp(NPCOp), 
+    .RegWrite(RegWrite), 
+    .EXTOp(EXTOp), 
+    .ALUOp(ALUOp), 
+    .MemWrite(MemWrite), 
+    .RegA3Sel(RegA3Sel), 
+    .RegDataSel(RegDataSel), 
+    .AluBSel(AluBSel), 
+    .instr(instr)
+    );
+
+

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+ALU instance_name (
+    .A(A), 
+    .B(B), 
+    .instr(instr), 
+    .C(C), 
+    .cal_overflow(cal_overflow)
+    );
+
+

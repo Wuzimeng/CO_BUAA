@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/CO/P4/P4_add_lb/mips.xst" -ofn "D:/CO/P4/P4_add_lb/mips.syr" 

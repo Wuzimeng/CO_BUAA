@@ -1,0 +1,24 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3_isim_beh.exe -prj C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3_beh.prj work.challenge_test3 work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/dell/Desktop/ISE TEST/cscore_test_8/cpu_checker.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3.v" into library work
+Analyzing Verilog file "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module cpu_checker_num10
+Compiling module cpu_checker_num
+Compiling module cpu_checker_alpha
+Compiling module cpu_checker_alpha_to_num
+Compiling module cpu_checker
+Compiling module challenge_test3
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\challenge_test3_isim_beh.exe.sim\libPortability.dll".
+Compiled 7 Verilog Units
+Built simulation executable C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3_isim_beh.exe
+Fuse Memory Usage: 28988 KB
+Fuse CPU Usage: 686 ms

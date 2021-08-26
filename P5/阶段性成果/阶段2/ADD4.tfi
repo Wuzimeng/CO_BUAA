@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+ADD4 instance_name (
+    .pc(pc), 
+    .pc4(pc4)
+    );
+
+

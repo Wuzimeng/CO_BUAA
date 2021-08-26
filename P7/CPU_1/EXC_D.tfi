@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+EXC_D instance_name (
+    .exccode(exccode), 
+    .instr(instr), 
+    .exccode_instr(exccode_instr)
+    );
+
+

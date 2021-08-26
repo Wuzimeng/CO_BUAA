@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+EXT instance_name (
+    .instr(instr), 
+    .ext(ext)
+    );
+
+

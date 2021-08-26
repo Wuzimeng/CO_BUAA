@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+ALU instance_name (
+    .A(A), 
+    .B(B), 
+    .instr(instr), 
+    .C(C)
+    );
+
+

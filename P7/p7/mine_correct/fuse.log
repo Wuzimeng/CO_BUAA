@@ -1,0 +1,86 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\BRIDGE.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\CP0.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\CPU.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\D.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\DATAPATH.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\DECODE.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\define.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\E.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\EXC.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\F.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\M.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\MF.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\mips.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\mips_tb.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\MUX.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\regs.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\STOP_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_correct\timer.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\MUX.v" Line 33: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\regs.v" Line 38: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\D.v" Line 40: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\EXC.v" Line 29: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\D.v" Line 83: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\D.v" Line 108: Port EXTOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\MUX.v" Line 57: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\E.v" Line 34: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\EXC.v" Line 45: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\MUX.v" Line 105: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\E.v" Line 85: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\M.v" Line 44: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\MUX.v" Line 129: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\CP0.v" Line 76: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\CP0.v" Line 77: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\MUX.v" Line 81: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\FORWARD_CONTROL.v" Line 53: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\FORWARD_CONTROL.v" Line 55: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\STOP_CONTROL.v" Line 48: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\STOP_CONTROL.v" Line 59: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\CO\P7\p7\mine_correct\STOP_CONTROL.v" Line 61: Port NPCOp is not connected to this instance
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module CHECK_D
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module CHECK_E
+Compiling module MUX_AluBSel
+Compiling module MD
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module MUX_DM
+Compiling module CHECK_M
+Compiling module CP0
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module CPU
+Compiling module BRIDGE
+Compiling module TC
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Waiting for 22 sub-compilation(s) to finish...

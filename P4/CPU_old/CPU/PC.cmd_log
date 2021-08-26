@@ -1,0 +1,4 @@
+vhdtdtfi -lang verilog -prj CPU -o D:/CO/P4/CPU/PC.tfi -lib work D:/CO/P4/CPU//PC.v -module PC -template D:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj CPU -o D:/CO/P4/CPU/PC.tfi -lib work D:/CO/P4/CPU//PC.v -module PC -template D:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work D:/CO/P4/CPU_old/CPU/PC.v -lang verilog -prj CPU -o PC.spl -module PC -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 PC.spl D:/CO/P4/CPU_old/CPU/PC.sym 

@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+cpu_checker_alpha instance_name (
+    .char(char), 
+    .out(out)
+    );
+
+

@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+REG_W instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .instr(instr), 
+    .pc4(pc4), 
+    .ALUC(ALUC), 
+    .DMRD(DMRD), 
+    .instr_W(instr_W), 
+    .pc4_W(pc4_W), 
+    .ALUC_W(ALUC_W), 
+    .DMRD_W(DMRD_W)
+    );
+
+

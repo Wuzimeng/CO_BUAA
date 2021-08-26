@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+REG_D instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .instr(instr), 
+    .pc4(pc4), 
+    .en(en), 
+    .exccode(exccode), 
+    .exc_int(exc_int), 
+    .instr_D(instr_D), 
+    .pc4_D(pc4_D), 
+    .exccode_D(exccode_D)
+    );
+
+

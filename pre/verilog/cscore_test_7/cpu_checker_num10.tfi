@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+cpu_checker_num10 instance_name (
+    .num(num), 
+    .out(out)
+    );
+
+

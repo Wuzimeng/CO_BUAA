@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/xst"
+elaborate
+-ifn cpu_checker_num.prj
+-ifmt mixed

@@ -1,0 +1,54 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:\CO\P6\p6_290\CPU_tb.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\D.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\DATAPATH.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\DECODE.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\define.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\E.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\F.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\M.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\MF.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\mips.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\mips_tb.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\MUX.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\regs.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\STOP_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P6\p6_290\stop_tb.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module MUX_AluBSel
+Compiling module MD
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Waiting for 14 sub-compilation(s) to finish...

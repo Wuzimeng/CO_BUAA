@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/cpu_checker.xst" -ofn "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/cpu_checker.syr" 
+xst -intstyle ise -ifn "D:/CO/pre/verilog/cscore_test_8/cpu_checker.xst" -ofn "D:/CO/pre/verilog/cscore_test_8/cpu_checker.syr" 

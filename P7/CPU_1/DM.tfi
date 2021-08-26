@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+DM instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .pc4(pc4), 
+    .instr(instr), 
+    .Addr(Addr), 
+    .Data(Data), 
+    .DMRD(DMRD), 
+    .load_error(load_error), 
+    .store_error(store_error)
+    );
+
+

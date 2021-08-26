@@ -1,0 +1,71 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/CO/P5/CPU_1/CPU_tb_isim_beh.exe -prj D:/CO/P5/CPU_1/CPU_tb_beh.prj work.CPU_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/CO/P5/CPU_1/DECODE.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/regs.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/MUX.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/MF.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/M.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/F.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/E.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/D.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/STOP_CONTROL.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/DATAPATH.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/mips.v" into library work
+Analyzing Verilog file "D:/CO/P5/CPU_1/CPU_tb.v" into library work
+Analyzing Verilog file "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/MUX.v" Line 31: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/D.v" Line 39: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/D.v" Line 79: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/D.v" Line 104: Port EXTOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/MUX.v" Line 49: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/E.v" Line 31: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/MUX.v" Line 93: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/M.v" Line 35: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/MUX.v" Line 71: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/FORWARD_CONTROL.v" Line 53: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/FORWARD_CONTROL.v" Line 55: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 50: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 59: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 61: Port NPCOp is not connected to this instance
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module MUX_AluBSel
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module mips
+Compiling module CPU_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 14 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\CPU_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 29 Verilog Units
+Built simulation executable D:/CO/P5/CPU_1/CPU_tb_isim_beh.exe
+Fuse Memory Usage: 30100 KB
+Fuse CPU Usage: 561 ms

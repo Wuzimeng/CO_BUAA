@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+STOP_CONTROL instance_name (
+    .instr_D(instr_D), 
+    .instr_E(instr_E), 
+    .instr_M(instr_M), 
+    .A3_E(A3_E), 
+    .A3_M(A3_M), 
+    .enPC(enPC), 
+    .enD(enD), 
+    .clrE(clrE)
+    );
+
+

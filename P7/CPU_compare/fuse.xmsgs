@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/MUX.v" Line 33: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/regs.v" Line 38: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/D.v" Line 39: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/EXC.v" Line 29: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/D.v" Line 81: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/D.v" Line 106: Port <arg fmt="%s" index="1">EXTOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/MUX.v" Line 57: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/E.v" Line 34: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/EXC.v" Line 45: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/MUX.v" Line 105: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/E.v" Line 84: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/M.v" Line 43: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/MUX.v" Line 129: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/CP0.v" Line 76: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/CP0.v" Line 77: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/MUX.v" Line 81: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/FORWARD_CONTROL.v" Line 53: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/FORWARD_CONTROL.v" Line 55: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/STOP_CONTROL.v" Line 48: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/STOP_CONTROL.v" Line 59: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P7/CPU_compare/STOP_CONTROL.v" Line 61: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: ￏﾵￍﾳￕￒﾲﾻﾵﾽￖﾸﾶﾨﾵￄￂﾷﾾﾶﾡﾣ, &quot;isim\mips_tb_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+</msg>
+
+</messages>
+

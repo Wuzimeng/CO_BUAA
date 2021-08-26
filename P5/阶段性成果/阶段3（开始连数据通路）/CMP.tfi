@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+CMP instance_name (
+    .D1(D1), 
+    .D2(D2), 
+    .zero(zero)
+    );
+
+

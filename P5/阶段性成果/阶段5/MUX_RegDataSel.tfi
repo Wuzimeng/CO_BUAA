@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+MUX_RegDataSel instance_name (
+    .instr(instr), 
+    .ALUC(ALUC), 
+    .DMRD(DMRD), 
+    .pc4(pc4), 
+    .RegData(RegData)
+    );
+
+

@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+EXC_E instance_name (
+    .exccode(exccode), 
+    .cal_overflow(cal_overflow), 
+    .instr(instr), 
+    .exccode_alu(exccode_alu)
+    );
+
+

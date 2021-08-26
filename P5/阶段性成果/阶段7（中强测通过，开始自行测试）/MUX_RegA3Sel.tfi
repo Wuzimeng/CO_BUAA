@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+MUX_RegA3Sel instance_name (
+    .instr(instr), 
+    .A3(A3)
+    );
+
+

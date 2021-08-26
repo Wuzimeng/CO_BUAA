@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MUX_PcSel instance_name (
+    .pc4(pc4), 
+    .instr(instr), 
+    .npc(npc), 
+    .pcin(pcin)
+    );
+
+

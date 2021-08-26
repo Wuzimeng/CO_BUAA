@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3_isim_beh.exe" -prj "C:/Users/dell/Desktop/ISE TEST/cscore_test_8/challenge_test3_beh.prj" "work.challenge_test3" "work.glbl" 

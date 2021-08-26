@@ -1,0 +1,58 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\CPU_tb.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\D.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\DATAPATH.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\DECODE.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\define.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\E.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\F.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\M.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\MF.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\mips.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\mips_tb.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\MUX.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\regs.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\STOP_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P5\P5_tset_new\1.3_1360\stop_tb.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module MUX_AluBSel
+Compiling module MD
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Waiting for 14 sub-compilation(s) to finish...
+Compiled 29 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 31352 KB
+Fuse CPU Usage: 1499 ms

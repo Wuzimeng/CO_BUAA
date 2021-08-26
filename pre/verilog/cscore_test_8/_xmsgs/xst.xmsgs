@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">92</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">status1</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">84</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">count</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">85</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">status1</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">86</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">data</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">87</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">time1</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">88</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">grf</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="880" delta="new" >&quot;<arg fmt="%s" index="1">cpu_checker.v</arg>&quot; line <arg fmt="%d" index="2">89</arg>: Cannot mix blocking and non blocking assignments on signal &lt;<arg fmt="%s" index="3">pc</arg>&gt;.
+</msg>
+
+</messages>
+

@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+EXT instance_name (
+    .Imm(Imm), 
+    .EXTOp(EXTOp), 
+    .Ext(Ext)
+    );
+
+

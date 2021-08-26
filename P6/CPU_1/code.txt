@@ -1,0 +1,13 @@
+34011234
+3c025678
+340affff
+00221821
+34050004
+aca20000
+a0a30003
+aca30008
+acaafffc
+80abffff
+80acfffd
+90adffff
+90aefffd

@@ -1,0 +1,69 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\BRIDGE.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\CP0.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\CPU.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\D.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\DATAPATH.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\DECODE.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\define.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\E.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\EXC.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\F.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\FORWARD_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\M.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\MF.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\mips.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\mips_tb.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\MUX.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\regs.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\STOP_CONTROL.v" into library work
+Analyzing Verilog file "D:\CO\P7\p7\mine_hazard\timer.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ADD4
+Compiling module DECODE
+Compiling module MUX_PcSel
+Compiling module PC
+Compiling module IM
+Compiling module REG_D
+Compiling module GRF
+Compiling module CHECK_D
+Compiling module MFCMP1D
+Compiling module MFCMP2D
+Compiling module CMP
+Compiling module EXT
+Compiling module NPC
+Compiling module MUX_RegA3Sel
+Compiling module REG_E
+Compiling module MFALUAE
+Compiling module MFALUBE
+Compiling module ALU
+Compiling module CHECK_E
+Compiling module MUX_AluBSel
+Compiling module MD
+Compiling module REG_M
+Compiling module MFDM
+Compiling module DM
+Compiling module MUX_DM
+Compiling module CHECK_M
+Compiling module CP0
+Compiling module REG_W
+Compiling module MUX_RegDataSel
+Compiling module DATAPATH
+Compiling module FORWARD_CONTROL
+Compiling module STOP_CONTROL
+Compiling module CPU
+Compiling module BRIDGE
+Compiling module TC
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Waiting for 22 sub-compilation(s) to finish...
+Compiled 37 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 31784 KB
+Fuse CPU Usage: 687 ms

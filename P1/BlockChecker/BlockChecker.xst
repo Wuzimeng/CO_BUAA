@@ -1,0 +1,5 @@
+set -tmpdir "D:/CO/P1/BlockChecker/xst/projnav.tmp"
+set -xsthdpdir "D:/CO/P1/BlockChecker/xst"
+elaborate
+-ifn BlockChecker.prj
+-ifmt mixed

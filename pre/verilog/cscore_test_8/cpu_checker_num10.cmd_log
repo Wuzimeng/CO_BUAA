@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj cscore_test_7 -o "C:/Users/dell/Desktop/ISE TEST/cscore_test_7/cpu_checker_num10.tfi" -lib work "C:/Users/dell/Desktop/ISE TEST/cscore_test_7//cpu_checker_num10.v" -module cpu_checker_num10 -template D:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

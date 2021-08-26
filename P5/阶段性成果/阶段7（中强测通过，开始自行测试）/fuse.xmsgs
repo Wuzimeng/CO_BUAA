@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/MUX.v" Line 31: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/D.v" Line 39: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/D.v" Line 79: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/D.v" Line 104: Port <arg fmt="%s" index="1">EXTOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/MUX.v" Line 49: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/E.v" Line 31: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/MUX.v" Line 93: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/M.v" Line 35: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/MUX.v" Line 71: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/FORWARD_CONTROL.v" Line 53: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/FORWARD_CONTROL.v" Line 55: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 51: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 60: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/CO/P5/CPU_1/STOP_CONTROL.v" Line 62: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: ￏﾵￍﾳￕￒﾲﾻﾵﾽￖﾸﾶﾨﾵￄￂﾷﾾﾶﾡﾣ, &quot;isim\CPU_tb_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+</msg>
+
+</messages>
+

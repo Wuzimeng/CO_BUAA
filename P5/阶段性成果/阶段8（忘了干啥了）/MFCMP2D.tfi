@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+MFCMP2D instance_name (
+    .mfcmp2dSel(mfcmp2dSel), 
+    .RD2(RD2), 
+    .ALUC_M(ALUC_M), 
+    .pc4_M(pc4_M), 
+    .ALUC_W(ALUC_W), 
+    .DMRD_W(DMRD_W), 
+    .pc4_W(pc4_W), 
+    .mfcmp2(mfcmp2)
+    );
+
+

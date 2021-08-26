@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+MD instance_name (
+    .instr(instr), 
+    .clk(clk), 
+    .reset(reset), 
+    .D1(D1), 
+    .D2(D2), 
+    .HI(HI), 
+    .LO(LO), 
+    .start(start), 
+    .busy(busy)
+    );
+
+

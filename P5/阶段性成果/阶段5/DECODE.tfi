@@ -1,0 +1,24 @@
+
+
+
+// Instantiate the module
+DECODE instance_name (
+    .instr(instr), 
+    .NPCOp(NPCOp), 
+    .EXTOp(EXTOp), 
+    .ALUOp(ALUOp), 
+    .RegWrite(RegWrite), 
+    .MemWrite(MemWrite), 
+    .RegA3Sel(RegA3Sel), 
+    .RegDataSel(RegDataSel), 
+    .AluBSel(AluBSel), 
+    .PcSel(PcSel), 
+    .Tuse_rs0(Tuse_rs0), 
+    .Tuse_rs1(Tuse_rs1), 
+    .Tuse_rt0(Tuse_rt0), 
+    .Tuse_rt1(Tuse_rt1), 
+    .Tuse_rt2(Tuse_rt2), 
+    .Tnew(Tnew)
+    );
+
+

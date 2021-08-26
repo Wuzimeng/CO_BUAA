@@ -1,0 +1,25 @@
+
+
+
+// Instantiate the module
+DATAPATH instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .enPC(enPC), 
+    .enD(enD), 
+    .clrE(clrE), 
+    .mfcmp1dSel(mfcmp1dSel), 
+    .mfcmp2dSel(mfcmp2dSel), 
+    .mfaluaeSel(mfaluaeSel), 
+    .mfalubeSel(mfalubeSel), 
+    .mfdeSel(mfdeSel), 
+    .instr_D(instr_D), 
+    .instr_E(instr_E), 
+    .instr_M(instr_M), 
+    .instr_W(instr_W), 
+    .A3_E(A3_E), 
+    .A3_M(A3_M), 
+    .A3_W(A3_W)
+    );
+
+

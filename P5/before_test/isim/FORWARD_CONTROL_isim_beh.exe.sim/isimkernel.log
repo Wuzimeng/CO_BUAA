@@ -1,0 +1,28 @@
+Command line:
+   FORWARD_CONTROL_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  52393
+
+Sat Dec 05 17:03:54 2020
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5168.18 Meg
+
+ Total Signals          : 33
+ Total Nets             : 264
+ Total Signal Drivers   : 49
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 54
+ Total Traceable Variables  : 78
+ Total Scalar Nets and Variables : 438
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5168.18 Meg
+
+Sat Dec 05 17:03:58 2020
+
